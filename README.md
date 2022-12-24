@@ -23,7 +23,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/azizec/filesharingbot)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ABHIRAMSREE47/filesharingbot)</br>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
@@ -32,7 +32,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/azizec/filesharingbot
+git clone https://github.com/ABHIRAMSREE47/filesharingbot
 cd filesharingbot
 pip3 install -r requirements.txt
 cp sample_config.env config.env
